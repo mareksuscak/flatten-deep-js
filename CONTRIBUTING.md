@@ -19,5 +19,5 @@ make sure to provide as detailed an explanation as possible.
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under its 
+By contributing, you agree that your contributions will be licensed under 
 MIT license.
