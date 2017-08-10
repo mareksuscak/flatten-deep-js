@@ -46,8 +46,11 @@ yarn test
 
 ## Known Issues
 
-- Not being tested on any browser environment
-- Code coverage is not being monitored
+- No browser environment tests (e.g. [karma](https://karma-runner.github.io/))
+- No code coverage monitoring (Jest [supports --coverage flag](http://facebook.github.io/jest/docs/cli.html#coverage) + 
+  [junit reporter](jasmine-reporters) necessary)
+- Missing benchmarks ([benchmark.js](https://benchmarkjs.com/))
+- Not using [flow](https://flow.org/) for static type checks
 
 ## Contributing
 
