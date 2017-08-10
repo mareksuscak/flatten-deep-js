@@ -6,10 +6,10 @@
 
 ```sh
 # NPM
-npm install github:mareksuscak/flatten-deep
+npm install github:mareksuscak/flatten-deep-js
 
 # Yarn
-yarn add https://github.com/mareksuscak/flatten-deep
+yarn add https://github.com/mareksuscak/flatten-deep-js
 ```
 
 ## How To Use

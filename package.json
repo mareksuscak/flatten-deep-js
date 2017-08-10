@@ -1,5 +1,5 @@
 {
-  "name": "@mareksuscak/flatten-deep",
+  "name": "flatten-deep",
   "version": "0.0.1",
   "description": "A function for flattening arbitrarily nested arrays",
   "main": "src/flattenDeep.js",
