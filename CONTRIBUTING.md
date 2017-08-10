@@ -6,7 +6,7 @@ is always publishable. Try to follow established code conventions.
 ## Bugs
 
 When [reporting a bug](https://github.com/mareksuscak/flatten-deep-js/issues/new), 
-make sure to provide explanation as detailed as possible.
+make sure to provide as detailed an explanation as possible.
 
 ## Code Conventions
 
