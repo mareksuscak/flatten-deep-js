@@ -1,6 +1,6 @@
 # flatten-deep [![Build Status](https://travis-ci.org/mareksuscak/flatten-deep-js.svg?branch=master)](https://travis-ci.org/mareksuscak/flatten-deep-js)
 
-ƛ Flattens an arbitrarily nested arrays.
+ƛ Flattens arbitrarily nested arrays.
 
 ## Installation
 
