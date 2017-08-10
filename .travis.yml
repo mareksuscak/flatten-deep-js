@@ -6,4 +6,5 @@ node_js:
   - '6'
   - '5'
   - '4'
-script: npm test -- --runInBand
+script: # --runInBand for faster execution on machines with limited resources
+  - npm test -- --runInBand
