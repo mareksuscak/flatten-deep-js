@@ -6,18 +6,18 @@
 
 ```sh
 # NPM
-npm install @mareksuscak/flatten-deep
+npm install github:mareksuscak/flatten-deep
 
 # Yarn
-yarn install @mareksuscak/flatten-deep
+yarn add https://github.com/mareksuscak/flatten-deep
 ```
 
 ## How To Use
 
 ```js
-import flattenDeep from '@mareksuscak/flattenDeep'
+import flattenDeep from 'flattenDeep'
 // or
-// var flattenDeep = require('@mareksuscak/flatten-deep')
+// var flattenDeep = require('flatten-deep')
 
 flattenDeep([1, [2, [3]], 4]) // -> [1, 2, 3, 4]
 ```
