@@ -11,7 +11,7 @@ function internalFlatten(array, acc = []) {
   /**
    * Notes:
    *
-   * 1. for..of is one of few ways to iterate all kinds of arrays incl. sparse arrays
+   * 1. for..of is one of few iteration methods that works with sparse arrays
    * 2. The array depth is currently limited by the maximum call stack size.
    *    In the future, when tail call optimization is enabled by default in V8,
    *    we could use a tail-recursive algorithm.
