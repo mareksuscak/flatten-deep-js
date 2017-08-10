@@ -1,0 +1,11 @@
+# node_modules ignored automatically by npm
+.github
+benchmark
+.editorconfig
+.travis.yml
+yarn.lock
+*/**/*.test.js
+CONTRIBUTING.md
+README.md
+
+

@@ -1,0 +1,26 @@
+{
+  "name": "@mareksuscak/flatten-deep",
+  "version": "0.0.1",
+  "description": "A function for flattening arbitrarily nested arrays",
+  "main": "src/flattenDeep.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "https://github.com/mareksuscak/flatten-deep-js.git",
+  "keywords": [
+    "flatten",
+    "deep",
+    "tail-recursive"
+  ],
+  "author": "Marek Suscak <marek.suscak@gmail.com>",
+  "license": "MIT",
+  "bugs": "https://github.com/mareksuscak/flatten-deep-js/issues",
+  "homepage": "https://github.com/mareksuscak/flatten-deep-js#readme",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "jest": "^20.0.4"
+  }
+}
