@@ -4,15 +4,11 @@
 
 ## Installation
 
-NPM
-
 ```sh
+# NPM
 npm install @mareksuscak/flatten-deep
-```
 
-Yarn
-
-```sh
+# Yarn
 yarn install @mareksuscak/flatten-deep
 ```
 
@@ -31,13 +27,21 @@ flattenDeep([1, [2, [3]], 4]) // -> [1, 2, 3, 4]
 Interactive mode
 
 ```js
+// NPM
+npm test -- --watch
 
+// Yarn
+yarn test -- --watch
 ```
 
-Single run mode
+Single run mode:
 
 ```js
+// NPM
+npm test
 
+// Yarn
+yarn test
 ```
 
 ## Known Issues
