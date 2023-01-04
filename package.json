@@ -20,6 +20,6 @@
   "bugs": "https://github.com/mareksuscak/flatten-deep-js/issues",
   "homepage": "https://github.com/mareksuscak/flatten-deep-js#readme",
   "devDependencies": {
-    "jest": "^20.0.4"
+    "jest": "^29.3.1"
   }
 }
